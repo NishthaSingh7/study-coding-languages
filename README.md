@@ -1,9 +1,24 @@
-# Study Coding Languages
+# study-coding-languages
 
-A personal workspace for learning programming languages — notes, examples, and small projects, grouped by language.
+## Project name
+study-coding-languages
 
-## What’s here
+## Year
+2026
 
-**TypeScript** — practice files and experiments in `TypeScript/src/`.
+## Purpose
+Personal 2026 project.
 
-More language folders can be added as study starts on them.
+## Features
+- TypeScript practice files under `TypeScript/typescript-learning/`
+- Local TypeScript toolchain via `TypeScript/package.json`
+- Easy to extend with new language folders as study expands
+- TypeScript
+- Node.js (`@types/node`)
+- npm
+
+## Tech Stack used
+- TypeScript
+
+## Project link
+https://github.com/NishthaSingh7/study-coding-languages
